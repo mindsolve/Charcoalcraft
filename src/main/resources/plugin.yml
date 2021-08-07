@@ -1,0 +1,6 @@
+name: Charcoalcrafting
+version: ${project.version}
+main: eu.fx3.plugins.charcoalcrafting.charcoalcrafting.Charcoalcrafting
+api-version: 1.13
+authors: [MindSolvinator]
+description: Allows charcoal to be crafted to coal blocks
